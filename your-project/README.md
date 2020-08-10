@@ -14,13 +14,19 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+We all know that Airbnb has raised some controversy regarding housing pricing and availability for the locals of the area, specially on Barcelona, where it is a heated topic to the point the city council is studying taking action on the matter. 
+
+Due to the current situation of the COVID-19 crisis, Airbnb has released a publicity campaing incouraging people to help the owners of the website listings, suggesting they are struggling because of the lack of clients. But, is the idea they are selling accurate? Are those people really dependant on the income of the Airbnb's rents or are they in fact people who just increase their wealth by getting advantage of their "spare houses"?
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+### Main question
+Who really are the listing owners of Airbnb?
+
+### Main hypothesis
+The majority of the owners own more than an only listing.
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+The dataset used 
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
