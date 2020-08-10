@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Game of Homes
+*Mar Cánovas*
 
-*[Your Cohort, Campus & Date]*
+*Data Analysis FT, June 2020, Barcelona*
 
 ## Content
 - [Project Description](#project-description)
